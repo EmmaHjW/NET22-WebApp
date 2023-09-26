@@ -6,7 +6,7 @@ namespace TestProject1
     public class NumbersTest
     {
         [TestMethod]
-        public void VariablesTest()
+        public void VariablesTest_ReturnSame_As_expected()
         {
             //Arrange
             Numbers num = new Numbers();
